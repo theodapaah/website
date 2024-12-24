@@ -16,7 +16,7 @@ function Footer() {
 
     return (
         <div id="footer">
-            <p>Made from scratch with 💙 by Wisdom &copy; {date}</p>
+            <p>Made from scratch with 💙 by Theophilus &copy; {date}</p>
         </div>
     );
 }

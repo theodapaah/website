@@ -1,4 +1,4 @@
-export const name = "Wisdom";
+export const name = "Theophilus";
 export const school = "University of North Carolina at Chapel Hill";
 const thingsIDo = ['Machine Learning', 'Frontend Development', 'Backend Development', 'API Development']
 

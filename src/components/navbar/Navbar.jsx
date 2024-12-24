@@ -8,7 +8,7 @@ function Navbar() {
     return (
         <div className="navbar">
             <nav>
-                <h2 id="name">Wisdom Okwen</h2>
+                <h2 id="name">Theophilus Dapaah</h2>
                 <div className="nav-links">
                     <a href="#about" className="nav-link">About</a>
                     <a href="#projects" className="nav-link">Projects</a>
