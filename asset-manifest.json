@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.54567c22.css",
+    "main.js": "/website/static/js/main.37e6d2f9.js",
+    "static/js/453.d855a71b.chunk.js": "/website/static/js/453.d855a71b.chunk.js",
+    "static/media/csxl.mov": "/website/static/media/csxl.ad355f4afc1abe07c716.mov",
+    "static/media/pong.mov": "/website/static/media/pong.a0f86ba8be8cc87b643f.mov",
+    "static/media/california.mov": "/website/static/media/california.d56c9a031d248f80fd34.mov",
+    "static/media/my_fun.mov": "/website/static/media/my_fun.dd8d33d245847f8bbefe.mov",
+    "static/media/contageon_simulation.mov": "/website/static/media/contageon_simulation.9fbdf778d9bb14a8f7b9.mov",
+    "static/media/profile.jpg": "/website/static/media/profile.764f858131bc8428b68d.jpg",
+    "static/media/revicons.eot": "/website/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/website/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/website/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/website/index.html",
+    "main.54567c22.css.map": "/website/static/css/main.54567c22.css.map",
+    "main.37e6d2f9.js.map": "/website/static/js/main.37e6d2f9.js.map",
+    "453.d855a71b.chunk.js.map": "/website/static/js/453.d855a71b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54567c22.css",
+    "static/js/main.37e6d2f9.js"
+  ]
+}
