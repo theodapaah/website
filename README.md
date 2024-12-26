@@ -1,1 +1,1 @@
-### Wisdom's personal website
+### Theophilus Dapaah's personal website

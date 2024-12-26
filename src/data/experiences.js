@@ -8,17 +8,10 @@ const experiences = [
     },
     {
         title: "Software Engineer Intern",
-        company: "Microsoft Corp.",
+        company: "Jadaad Technologies",
         team: "Power Apps Canvas",
         date: "May - Aug 2024",
         tech_stack: ["Typescript, ", "React, ", "Azure"],
-    },
-    {
-        title: "Software Engineer Intern",
-        company: "ServiceNow, Inc.",
-        team: "Chat Platforms",
-        date: "May - Aug 2023",
-        tech_stack: ["React, ", "GraphQL, " , "Java"],
     },
     {
         title: "Research Intern",

@@ -103,7 +103,7 @@ export default function ProjectCard(props) {
           justifyContent: 'center'
         }}
       >
-        <Button sx={{ 
+        {/* <Button sx={{ 
           position: 'absolute',
           height: '35px',
           width: '100px',
@@ -122,7 +122,7 @@ export default function ProjectCard(props) {
           target='_blank'
         >
           Visit!
-        </Button>
+        </Button> */}
       </CardActions>
     </Card>
   );
