@@ -9,7 +9,7 @@ const experiences = [
     {
         title: "Software Engineer Intern",
         company: "Jadaad Technologies",
-        team: "Power Apps Canvas",
+        team: "",
         date: "May - Aug 2024",
         tech_stack: ["Typescript, ", "React, ", "Azure"],
     },
